@@ -1,0 +1,21 @@
+[Rate{dateTime=2023-08-16T06:31:34, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T04:51:30, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:09:37, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:11:59, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:18:44, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:28:02, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:29:12, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:30:17, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:47:13, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-17T02:32:27, currency1='USD', currency2='ILS', course=3.751314}
+, Rate{dateTime=2023-08-17T02:32:59, currency1='USD', currency2='THB', course=35.477398}
+, Rate{dateTime=2023-08-17T02:33:23, currency1='USD', currency2='CAD', course=1.352938}
+, Rate{dateTime=2023-08-16T04:51:30, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:09:37, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:11:59, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:18:44, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:28:02, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:29:12, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:30:17, currency1='USD', currency2='ILS', course=3.737715}
+, Rate{dateTime=2023-08-16T05:47:13, currency1='USD', currency2='ILS', course=3.737715}
+]
